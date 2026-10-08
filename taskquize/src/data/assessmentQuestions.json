@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which hook is used to store state in React?",
+    "options": ["useState", "useLoop", "useClass", "useRoute"],
+    "correctAnswer": "useState"
+  },
+  {
+    "id": 2,
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "High Text Makeup Language", "Home Tool Markup Language", "Hyper Tool Main Language"],
+    "correctAnswer": "HyperText Markup Language"
+  },
+  {
+    "id": 3,
+    "question": "Which one is a JavaScript framework?",
+    "options": ["React", "Photoshop", "Excel", "Word"],
+    "correctAnswer": "React"
+  },
+  {
+    "id": 4,
+    "question": "Which tag is used for a paragraph in HTML?",
+    "options": ["<p>", "<h1>", "<div>", "<span>"],
+    "correctAnswer": "<p>"
+  },
+  {
+    "id": 5,
+    "question": "Which CSS property changes text color?",
+    "options": ["color", "background", "margin", "padding"],
+    "correctAnswer": "color"
+  },
+  {
+    "id": 6,
+    "question": "Which method is used to print in the console?",
+    "options": ["console.log", "print.text", "show.log", "write.console"],
+    "correctAnswer": "console.log"
+  },
+  {
+    "id": 7,
+    "question": "Which one is a valid variable keyword in JavaScript?",
+    "options": ["let", "make", "build", "create"],
+    "correctAnswer": "let"
+  },
+  {
+    "id": 8,
+    "question": "Which button is used to go to the next question?",
+    "options": ["Next", "Back", "Reset", "Stop"],
+    "correctAnswer": "Next"
+  },
+  {
+    "id": 9,
+    "question": "Which CSS framework is used in this task?",
+    "options": ["Tailwind CSS", "Bootstrap", "Bulma", "Material UI"],
+    "correctAnswer": "Tailwind CSS"
+  },
+  {
+    "id": 10,
+    "question": "What is used to select one option in this quiz?",
+    "options": ["Button", "Input file", "Image", "Link"],
+    "correctAnswer": "Button"
+  }
+]

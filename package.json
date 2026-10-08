@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "cd taskquize && npm run dev",
+    "build": "cd taskquize && npm run build",
+    "lint": "cd taskquize && npm run lint",
+    "preview": "cd taskquize && npm run preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
